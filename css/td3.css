@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body {
+	font-size: 2em;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	margin: 0px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2.5em;
+}
+
+li {
+	margin-left: 1.5em;
+}
+
+a {
+	text-decoration: none;
+}
