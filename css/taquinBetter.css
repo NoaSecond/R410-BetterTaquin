@@ -35,11 +35,12 @@ body {
   }
   
 /* number */
- .box span {
- 	display: inline-block;
- 	height: 50%;
- 	transform: translateY(60%);
- }
+.box span {
+    display: inline-block;
+    height: fit-content;
+    transform: translateY(60%);
+    align-self: center;
+}
 
 /* empty box */
 .empty {
